@@ -1,0 +1,67 @@
+﻿@model IEnumerable<BloodBankDB.EF.Tables.Donation>
+
+@{
+    ViewData["Title"] = "Donation List";
+}
+
+@{
+    string FormatDate(DateOnly date) => date.ToString("yyyy-MM-dd");
+}
+
+<h2>Donation List</h2>
+
+<p>
+    <a href="/Donation/Create" class="btn btn-primary">Create New Donation</a>
+</p>
+
+<table class="table table-bordered table-striped">
+
+    <thead>
+        <tr>
+            <th>Donation ID</th>
+            <th>Donor Name</th>
+            <th>Donation Date</th>
+            <th>Volume (ml)</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+
+                <td>@item.DonationId</td>
+
+                <td>@item.Donor.FullName</td>
+
+                <td>@FormatDate(item.DonationDate)</td>
+
+                <td>@item.VolumeMl</td>
+
+                <td>
+
+                    <a href="/Donation/Edit/@item.DonationId"
+                       class="btn btn-warning btn-sm">
+                        Edit
+                    </a>
+
+                    <a href="/Donation/Details/@item.DonationId"
+                       class="btn btn-info btn-sm">
+                        Details
+                    </a>
+
+                    <a href="/Donation/Delete/@item.DonationId"
+                       class="btn btn-danger btn-sm">
+                        Delete
+                    </a>
+
+                </td>
+
+            </tr>
+        }
+
+    </tbody>
+
+</table>

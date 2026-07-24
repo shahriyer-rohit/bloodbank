@@ -1,0 +1,75 @@
+﻿@model BloodBankDB.EF.Tables.Donor
+
+@{
+    ViewData["Title"] = "Delete Donor";
+}
+
+<h2>Delete Donor</h2>
+
+<h4 class="text-danger">Are you sure you want to delete this donor?</h4>
+
+<hr />
+
+<dl class="row">
+
+    <dt class="col-sm-3">
+        Donor ID
+    </dt>
+    <dd class="col-sm-9">
+        @Model.DonorId
+    </dd>
+
+    <dt class="col-sm-3">
+        Full Name
+    </dt>
+    <dd class="col-sm-9">
+        @Model.FullName
+    </dd>
+
+    <dt class="col-sm-3">
+        Blood Group
+    </dt>
+    <dd class="col-sm-9">
+        @Model.BloodGroup
+    </dd>
+
+    <dt class="col-sm-3">
+        Contact No
+    </dt>
+    <dd class="col-sm-9">
+        @Model.ContactNo
+    </dd>
+
+    <dt class="col-sm-3">
+        City
+    </dt>
+    <dd class="col-sm-9">
+        @Model.City
+    </dd>
+
+    <dt class="col-sm-3">
+        Last Donation Date
+    </dt>
+    <dd class="col-sm-9">
+        @Model.LastDonationDate.ToString("yyyy-MM-dd")
+    </dd>
+
+</dl>
+
+<form method="post" action="/Donor/Delete/@Model.DonorId">
+
+    @Html.AntiForgeryToken()
+
+    <input type="hidden" name="DonorId" id="DonorId" value="@Model.DonorId" />
+
+    <input type="submit"
+           value="Delete"
+           class="btn btn-danger" />
+
+    <a href="/Donor/Index"
+       class="btn btn-secondary">
+        Back to List
+    </a>
+
+</form>
+

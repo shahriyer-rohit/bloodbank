@@ -1,0 +1,75 @@
+﻿@model BloodBankDB.EF.Tables.Donor
+
+@{
+    ViewData["Title"] = "Donor Details";
+}
+
+@{
+    string dateText = Model.LastDonationDate.ToString("yyyy-MM-dd");
+}
+
+<h2>Donor Details</h2>
+
+<hr />
+
+<dl class="row">
+
+    <dt class="col-sm-3">
+        Donor ID
+    </dt>
+    <dd class="col-sm-9">
+        @Model.DonorId
+    </dd>
+
+    <dt class="col-sm-3">
+        Full Name
+    </dt>
+    <dd class="col-sm-9">
+        @Model.FullName
+    </dd>
+
+    <dt class="col-sm-3">
+        Blood Group
+    </dt>
+    <dd class="col-sm-9">
+        @Model.BloodGroup
+    </dd>
+
+    <dt class="col-sm-3">
+        Contact No
+    </dt>
+    <dd class="col-sm-9">
+        @Model.ContactNo
+    </dd>
+
+    <dt class="col-sm-3">
+        City
+    </dt>
+    <dd class="col-sm-9">
+        @Model.City
+    </dd>
+
+    <dt class="col-sm-3">
+        Last Donation Date
+    </dt>
+    <dd class="col-sm-9">
+        @dateText
+    </dd>
+
+</dl>
+
+<div>
+
+     <a href="/Donor/Edit/@Model.DonorId"
+         class="btn btn-primary">
+        Edit
+    </a>
+
+     <a href="/Donor/Index"
+       class="btn btn-secondary">
+        Back to List
+    </a>
+
+</div>
+
+

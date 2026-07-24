@@ -1,0 +1,32 @@
+﻿@model IEnumerable<BloodBankDB.EF.Tables.Donor>
+
+<h2>Last Donation Date</h2>
+
+<p>
+    <a href="/Donor/Index" class="btn btn-secondary btn-sm">Back to Donor List</a>
+</p>
+
+<table class="table table-striped">
+
+    <tr>
+
+        <th>Name</th>
+        <th>Blood Group</th>
+        <th>Last Donation</th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+
+            <td>@item.FullName</td>
+            <td>@item.BloodGroup</td>
+            <td>@item.LastDonationDate</td>
+
+        </tr>
+    }
+
+</table>
+
+

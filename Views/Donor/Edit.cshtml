@@ -1,0 +1,76 @@
+﻿@model BloodBankDB.EF.Tables.Donor
+
+@{
+    ViewData["Title"] = "Edit Donor";
+}
+
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="alert alert-danger">
+        <ul>
+            @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+            {
+                <li>@error.ErrorMessage</li>
+            }
+        </ul>
+    </div>
+}
+
+<h2>Edit Donor</h2>
+
+<hr />
+
+<div class="row">
+    <div class="col-md-6">
+
+        <form method="post" action="/Donor/Edit/@Model.DonorId">
+
+            @Html.AntiForgeryToken()
+
+            <input type="hidden" name="DonorId" id="DonorId" value="@Model.DonorId" />
+
+            <div class="mb-3">
+                <label for="FullName" class="form-label">Full Name</label>
+                <input type="text" name="FullName" id="FullName" value="@Model.FullName" class="form-control" />
+            </div>
+
+            <div class="mb-3">
+                <label for="BloodGroup" class="form-label">Blood Group</label>
+                <select name="BloodGroup" id="BloodGroup" class="form-control">
+                    <option value="">--Select Blood Group--</option>
+                    <option value="A+" @(Model.BloodGroup == "A+" ? "selected=\"selected\"" : "")>A+</option>
+                    <option value="A-" @(Model.BloodGroup == "A-" ? "selected=\"selected\"" : "")>A-</option>
+                    <option value="B+" @(Model.BloodGroup == "B+" ? "selected=\"selected\"" : "")>B+</option>
+                    <option value="B-" @(Model.BloodGroup == "B-" ? "selected=\"selected\"" : "")>B-</option>
+                    <option value="AB+" @(Model.BloodGroup == "AB+" ? "selected=\"selected\"" : "")>AB+</option>
+                    <option value="AB-" @(Model.BloodGroup == "AB-" ? "selected=\"selected\"" : "")>AB-</option>
+                    <option value="O+" @(Model.BloodGroup == "O+" ? "selected=\"selected\"" : "")>O+</option>
+                    <option value="O-" @(Model.BloodGroup == "O-" ? "selected=\"selected\"" : "")>O-</option>
+                </select>
+            </div>
+
+            <div class="mb-3">
+                <label for="ContactNo" class="form-label">Contact No</label>
+                <input type="text" name="ContactNo" id="ContactNo" value="@Model.ContactNo" class="form-control" />
+            </div>
+
+            <div class="mb-3">
+                <label for="City" class="form-label">City</label>
+                <input type="text" name="City" id="City" value="@Model.City" class="form-control" />
+            </div>
+
+            <div class="mb-3">
+                <label for="LastDonationDate" class="form-label">Last Donation Date</label>
+                <input type="date" name="LastDonationDate" id="LastDonationDate" value="@Model.LastDonationDate.ToString("yyyy-MM-dd")" class="form-control" />
+            </div>
+
+            <div class="mb-3">
+                <input type="submit" value="Update" class="btn btn-primary" />
+                <a href="/Donor/Index" class="btn btn-secondary">Back to List</a>
+            </div>
+
+        </form>
+
+    </div>
+</div>
+

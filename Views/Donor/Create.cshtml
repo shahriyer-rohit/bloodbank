@@ -1,0 +1,60 @@
+﻿@model BloodBankDB.EF.Tables.Donor
+
+<h2>Create Donor</h2>
+
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="alert alert-danger">
+        <ul>
+            @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+            {
+                <li>@error.ErrorMessage</li>
+            }
+        </ul>
+    </div>
+}
+
+<form method="post" action="/Donor/Create">
+
+    @Html.AntiForgeryToken()
+
+    <label>Full Name</label>
+    <input type="text" name="FullName" id="FullName" value="@Model?.FullName" class="form-control" />
+
+    <br />
+
+    <label>Blood Group</label>
+    <select name="BloodGroup" id="BloodGroup" class="form-control">
+        <option value="A+" @(Model?.BloodGroup == "A+" ? "selected=\"selected\"" : "")>A+</option>
+        <option value="A-" @(Model?.BloodGroup == "A-" ? "selected=\"selected\"" : "")>A-</option>
+        <option value="B+" @(Model?.BloodGroup == "B+" ? "selected=\"selected\"" : "")>B+</option>
+        <option value="B-" @(Model?.BloodGroup == "B-" ? "selected=\"selected\"" : "")>B-</option>
+        <option value="AB+" @(Model?.BloodGroup == "AB+" ? "selected=\"selected\"" : "")>AB+</option>
+        <option value="AB-" @(Model?.BloodGroup == "AB-" ? "selected=\"selected\"" : "")>AB-</option>
+        <option value="O+" @(Model?.BloodGroup == "O+" ? "selected=\"selected\"" : "")>O+</option>
+        <option value="O-" @(Model?.BloodGroup == "O-" ? "selected=\"selected\"" : "")>O-</option>
+    </select>
+
+    <br />
+
+    <label>Contact No</label>
+    <input type="text" name="ContactNo" id="ContactNo" value="@Model?.ContactNo" class="form-control" />
+
+    <br />
+
+    <label>City</label>
+    <input type="text" name="City" id="City" value="@Model?.City" class="form-control" />
+
+    <br />
+
+    <label>Last Donation Date</label>
+    <input type="date" name="LastDonationDate" id="LastDonationDate" value="@(Model != null ? Model.LastDonationDate.ToString("yyyy-MM-dd") : "")" class="form-control" />
+
+    <br />
+
+    <input type="submit"
+           value="Save"
+           class="btn btn-success" />
+
+</form>
+

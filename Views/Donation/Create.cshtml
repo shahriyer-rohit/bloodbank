@@ -1,0 +1,83 @@
+﻿@model BloodBankDB.EF.Tables.Donation
+
+@{
+    ViewData["Title"] = "Create Donation";
+}
+
+@{
+    var donorItems = ViewBag.DonorId as IEnumerable<Microsoft.AspNetCore.Mvc.Rendering.SelectListItem>;
+}
+
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="alert alert-danger">
+        <ul>
+            @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+            {
+                <li>@error.ErrorMessage</li>
+            }
+        </ul>
+    </div>
+}
+
+<h2>Create Donation</h2>
+
+<hr />
+
+<div class="row">
+    <div class="col-md-6">
+
+        <form method="post" action="/Donation/Create">
+
+            @Html.AntiForgeryToken()
+
+            <div class="mb-3">
+                <label for="DonorId" class="form-label">Donor</label>
+                <select name="DonorId" id="DonorId" class="form-control">
+                    <option value="">-- Select Donor --</option>
+                    @if (donorItems != null)
+                    {
+                        foreach (var donor in donorItems)
+                        {
+                            <option value="@donor.Value" @(Model != null && Model.DonorId.ToString() == donor.Value ? "selected=\"selected\"" : "")>@donor.Text</option>
+                        }
+                    }
+                </select>
+            </div>
+
+            <div class="mb-3">
+                <label for="DonationDate" class="form-label">Donation Date</label>
+                <input type="date"
+                       name="DonationDate"
+                       id="DonationDate"
+                       value="@(Model != null ? Model.DonationDate.ToString("yyyy-MM-dd") : "")"
+                       class="form-control" />
+            </div>
+
+            <div class="mb-3">
+                <label for="VolumeMl" class="form-label">Volume Ml</label>
+                <input type="number"
+                       name="VolumeMl"
+                       id="VolumeMl"
+                       value="@Model?.VolumeMl"
+                       class="form-control" />
+            </div>
+
+            <div class="mb-3">
+                <label for="CampName" class="form-label">Camp Name</label>
+                <input type="text"
+                       name="CampName"
+                       id="CampName"
+                       value="@Model?.CampName"
+                       class="form-control" />
+            </div>
+
+            <div class="mb-3">
+                <input type="submit" value="Save" class="btn btn-success" />
+                <a href="/Donation/Index" class="btn btn-secondary">Back</a>
+            </div>
+
+        </form>
+
+    </div>
+</div>

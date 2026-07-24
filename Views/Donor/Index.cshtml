@@ -1,0 +1,80 @@
+﻿@model IEnumerable<BloodBankDB.EF.Tables.Donor>
+
+@{
+    ViewData["Title"] = "Donor List";
+}
+
+@{
+    string FormatDate(DateOnly date) => date.ToString("yyyy-MM-dd");
+}
+
+<h2>Blood Donor List</h2>
+
+<hr />
+
+<p>
+    <a href="/Donor/Create" class="btn btn-primary btn-sm me-2 mb-2">Create New Donor</a>
+</p>
+
+<div class="mb-3">
+    <h4>LINQ Features</h4>
+
+    <a href="/Donor/Filter" class="btn btn-primary btn-sm me-2 mb-2">Filter by Blood Group</a>
+    <a href="/Donor/SortByLastDonation" class="btn btn-primary btn-sm me-2 mb-2">Recent Donors</a>
+    <a href="/Donor/DonorDonationCount" class="btn btn-primary btn-sm me-2 mb-2">Donation Count</a>
+    <a href="/Donor/TotalBloodVolume" class="btn btn-primary btn-sm mb-2">Total Blood Volume</a>
+</div>
+
+<table class="table table-bordered table-hover">
+
+    <thead>
+        <tr>
+            <th>Donor ID</th>
+            <th>Full Name</th>
+            <th>Blood Group</th>
+            <th>Contact No</th>
+            <th>City</th>
+            <th>Last Donation Date</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+
+                <td>@item.DonorId</td>
+                <td>@item.FullName</td>
+                <td>@item.BloodGroup</td>
+                <td>@item.ContactNo</td>
+                <td>@item.City</td>
+                <td>@FormatDate(item.LastDonationDate)</td>
+
+                <td>
+
+                    <a href="/Donor/Edit/@item.DonorId"
+                       class="btn btn-primary btn-sm me-2 mb-2">
+                        Edit
+                    </a>
+
+                    <a href="/Donor/Details/@item.DonorId"
+                       class="btn btn-primary btn-sm me-2 mb-2">
+                        Details
+                    </a>
+
+                    <a href="/Donor/Delete/@item.DonorId"
+                       class="btn btn-danger btn-sm mb-2">
+                        Delete
+                    </a>
+
+                </td>
+
+            </tr>
+        }
+
+    </tbody>
+
+</table>
+

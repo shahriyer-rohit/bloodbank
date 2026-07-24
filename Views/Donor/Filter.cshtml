@@ -1,0 +1,61 @@
+﻿@model IEnumerable<BloodBankDB.EF.Tables.Donor>
+
+@{
+    ViewData["Title"] = "Filter Donor";
+}
+
+@{
+    var selectedBloodGroup = Context.Request.Query["bloodGroup"].ToString();
+}
+
+<h2>Filter Donor By Blood Group</h2>
+
+<p>
+    <a href="/Donor/Index" class="btn btn-secondary btn-sm">Back to Donor List</a>
+</p>
+
+<form method="get" action="/Donor/Filter">
+    <label>Blood Group</label>
+
+    <select name="bloodGroup" id="bloodGroup">
+        <option value="">--Select--</option>
+        <option value="A+" @(selectedBloodGroup == "A+" ? "selected=\"selected\"" : "")>A+</option>
+        <option value="A-" @(selectedBloodGroup == "A-" ? "selected=\"selected\"" : "")>A-</option>
+        <option value="B+" @(selectedBloodGroup == "B+" ? "selected=\"selected\"" : "")>B+</option>
+        <option value="B-" @(selectedBloodGroup == "B-" ? "selected=\"selected\"" : "")>B-</option>
+        <option value="AB+" @(selectedBloodGroup == "AB+" ? "selected=\"selected\"" : "")>AB+</option>
+        <option value="AB-" @(selectedBloodGroup == "AB-" ? "selected=\"selected\"" : "")>AB-</option>
+        <option value="O+" @(selectedBloodGroup == "O+" ? "selected=\"selected\"" : "")>O+</option>
+        <option value="O-" @(selectedBloodGroup == "O-" ? "selected=\"selected\"" : "")>O-</option>
+    </select>
+
+    <input type="submit" value="Search" />
+</form>
+
+<br />
+
+<table class="table table-bordered">
+
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Blood Group</th>
+        <th>Contact</th>
+        <th>City</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+
+            <td>@item.DonorId</td>
+            <td>@item.FullName</td>
+            <td>@item.BloodGroup</td>
+            <td>@item.ContactNo</td>
+            <td>@item.City</td>
+
+        </tr>
+    }
+
+</table>
+

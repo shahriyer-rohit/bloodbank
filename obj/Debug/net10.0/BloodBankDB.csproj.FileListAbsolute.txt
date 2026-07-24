@@ -1,0 +1,451 @@
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\appsettings.Development.json
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\appsettings.json
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\BloodBankDB.staticwebassets.runtime.json
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\BloodBankDB.staticwebassets.endpoints.json
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\BloodBankDB.exe
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\BloodBankDB.deps.json
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\BloodBankDB.runtimeconfig.json
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\BloodBankDB.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\BloodBankDB.pdb
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\rpswa.dswa.cache.json
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\BloodBankDB.GeneratedMSBuildEditorConfig.editorconfig
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\BloodBankDB.AssemblyInfoInputs.cache
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\BloodBankDB.AssemblyInfo.cs
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\BloodBankDB.csproj.CoreCompileInputs.cache
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\BloodBankDB.MvcApplicationPartsAssemblyInfo.cache
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\BloodBankDB.RazorAssemblyInfo.cache
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\BloodBankDB.RazorAssemblyInfo.cs
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\rjimswa.dswa.cache.json
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\scopedcss\bundle\BloodBankDB.styles.css
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\scopedcss\projectbundle\BloodBankDB.bundle.scp.css
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\ive5tcit7a-{0}-b9sayid5wm-b9sayid5wm.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\vrydcyk8ny-{0}-61n19gt1b8-61n19gt1b8.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\nahvrt17kw-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\ftftyu0q25-{0}-bqjiyaj88i-bqjiyaj88i.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\0y16jip0ui-{0}-c2jlpeoesf-c2jlpeoesf.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\uhoppx24n4-{0}-erw9l3u2r3-erw9l3u2r3.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\38xk95lfzj-{0}-aexeepp0ev-aexeepp0ev.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\lgfztpi5pb-{0}-d7shbmvgxk-d7shbmvgxk.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\ek8th6xgeu-{0}-ausgxo2sd3-ausgxo2sd3.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\nmp70q202u-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\og4ac8hvtx-{0}-cosvhxvwiu-cosvhxvwiu.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\0m1vcwprw0-{0}-ub07r2b239-ub07r2b239.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\nnrw7026rh-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\pn2i501t5x-{0}-b7pk76d08c-b7pk76d08c.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\6veixp1idc-{0}-fsbi9cje9m-fsbi9cje9m.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\jbnsxk4clj-{0}-rzd6atqjts-rzd6atqjts.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\728k0s9qie-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\4bgfqogzgh-{0}-dxx9fxp4il-dxx9fxp4il.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\ficnx0x2fa-{0}-jd9uben2k1-jd9uben2k1.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\lsgfyq03gu-{0}-khv3u5hwcm-khv3u5hwcm.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\7c0548cplu-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\lv4z9osi70-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\vbfec4vtu8-{0}-c2oey78nd0-c2oey78nd0.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\fsceimwx0e-{0}-tdbxkamptv-tdbxkamptv.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\0wl5k1a8u5-{0}-j5mq2jizvt-j5mq2jizvt.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\k8940wx4di-{0}-06098lyss8-06098lyss8.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\vo8qycmy9b-{0}-nvvlpmu67g-nvvlpmu67g.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\jk3su98yca-{0}-s35ty4nyc5-s35ty4nyc5.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\yunsns01l5-{0}-pj5nd1wqec-pj5nd1wqec.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\g2tp20qoye-{0}-46ein0sx1k-46ein0sx1k.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\y1kkqqn992-{0}-v0zj4ognzu-v0zj4ognzu.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\xfkd6v01i8-{0}-37tfw0ft22-37tfw0ft22.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\4modwa0mxu-{0}-hrwsygsryq-hrwsygsryq.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\798m7ndx16-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\3uek1al75b-{0}-ft3s53vfgj-ft3s53vfgj.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\miopl95t3h-{0}-6cfz1n2cew-6cfz1n2cew.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\aj4hp3qj19-{0}-6pdc2jztkx-6pdc2jztkx.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\hj942zv9o4-{0}-493y06b0oq-493y06b0oq.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\7ct2j367wm-{0}-iovd86k7lj-iovd86k7lj.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\6qg31fpg97-{0}-vr1egmr9el-vr1egmr9el.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\zyk7wqine8-{0}-kbrnm935zg-kbrnm935zg.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\vk32vooa5x-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\ua8en4pqsq-{0}-y7v9cxd14o-y7v9cxd14o.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\sc9n3todhb-{0}-notf2xhcfb-notf2xhcfb.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\43rha1fbx9-{0}-h1s4sie4z3-h1s4sie4z3.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\sbx6xodfzf-{0}-63fj8s7r0e-63fj8s7r0e.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\rrp15h0vsg-{0}-0j3bgjxly4-0j3bgjxly4.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\e04uc4ljhb-{0}-47otxtyo56-47otxtyo56.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\6syzu71umk-{0}-4v8eqarkd7-4v8eqarkd7.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\8ruj47b2y0-{0}-356vix0kms-356vix0kms.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\1tkc1f0rzz-{0}-83jwlth58m-83jwlth58m.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\difvf8qhk2-{0}-mrlpezrjn3-mrlpezrjn3.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\wlttm2entw-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\0kq9oas5vl-{0}-ag7o75518u-ag7o75518u.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\hwu5xy3ve2-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\epomwpe41y-{0}-0i3buxo5is-0i3buxo5is.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\x63q3w1r3b-{0}-o1o13a6vjx-o1o13a6vjx.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\7joz05ljeh-{0}-ttgo8qnofa-ttgo8qnofa.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\575y2rx0gl-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\d76wr0q5ly-{0}-muycvpuwrr-muycvpuwrr.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\j34gzootoq-{0}-87fc7y1x7t-87fc7y1x7t.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\hgqbw7hvqp-{0}-mlv21k5csn-mlv21k5csn.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\g5xnqk8ep6-{0}-lo0g1i6dk3-lo0g1i6dk3.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\compressed\r3rti4vi3l-{0}-lo0g1i6dk3-lo0g1i6dk3.gz
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\staticwebassets.build.json
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\staticwebassets.build.json.cache
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\staticwebassets.development.json
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\swae.build.ex.cache
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\BloodBankDB.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\refint\BloodBankDB.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\BloodBankDB.pdb
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\BloodBankDB.genruntimeconfig.cache
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\ref\BloodBankDB.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\Humanizer.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\Mono.TextTemplating.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\Newtonsoft.Json.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\System.CodeDom.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\System.Composition.Convention.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\System.Composition.Hosting.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\System.Composition.Runtime.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\System.Composition.TypedParts.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\BloodBan.536726F3.Up2Date
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\Azure.Core.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\Azure.Identity.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\System.ClientModel.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\System.Memory.Data.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\BloodBankDB.csproj.AssemblyReference.cache
+F:\Fall-26\ASP .Net\code\BloodBankDB\BloodBankDB\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\appsettings.json
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\BloodBankDB.staticwebassets.runtime.json
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\BloodBankDB.staticwebassets.endpoints.json
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\BloodBankDB.exe
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\BloodBankDB.deps.json
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\BloodBankDB.runtimeconfig.json
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\BloodBankDB.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\BloodBankDB.pdb
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\Azure.Core.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\Azure.Identity.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\Humanizer.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\System.ClientModel.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\BloodBankDB.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\BloodBankDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\BloodBankDB.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\BloodBankDB.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\BloodBankDB.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\BloodBankDB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\BloodBankDB.RazorAssemblyInfo.cache
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\BloodBankDB.RazorAssemblyInfo.cs
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\BloodBankDB.sourcelink.json
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\scopedcss\bundle\BloodBankDB.styles.css
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\scopedcss\projectbundle\BloodBankDB.bundle.scp.css
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\ive5tcit7a-{0}-lugek5hnai-lugek5hnai.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\vrydcyk8ny-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\nahvrt17kw-{0}-fr7q2aak1r-fr7q2aak1r.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\ftftyu0q25-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\0y16jip0ui-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\uhoppx24n4-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\38xk95lfzj-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\lgfztpi5pb-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\ek8th6xgeu-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\nmp70q202u-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\og4ac8hvtx-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\0m1vcwprw0-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\nnrw7026rh-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\pn2i501t5x-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\6veixp1idc-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\jbnsxk4clj-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\728k0s9qie-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\4bgfqogzgh-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\ficnx0x2fa-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\lsgfyq03gu-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\7c0548cplu-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\lv4z9osi70-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\vbfec4vtu8-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\fsceimwx0e-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\0wl5k1a8u5-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\k8940wx4di-{0}-06098lyss8-06098lyss8.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\vo8qycmy9b-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\jk3su98yca-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\yunsns01l5-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\g2tp20qoye-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\y1kkqqn992-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\xfkd6v01i8-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\4modwa0mxu-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\798m7ndx16-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\3uek1al75b-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\miopl95t3h-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\aj4hp3qj19-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\hj942zv9o4-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\7ct2j367wm-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\6qg31fpg97-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\zyk7wqine8-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\vk32vooa5x-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\ua8en4pqsq-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\sc9n3todhb-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\43rha1fbx9-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\sbx6xodfzf-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\rrp15h0vsg-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\e04uc4ljhb-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\6syzu71umk-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\8ruj47b2y0-{0}-l3n5xuwxn8-l3n5xuwxn8.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\1tkc1f0rzz-{0}-ilo7uva0vt-ilo7uva0vt.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\difvf8qhk2-{0}-qlccset4i1-qlccset4i1.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\wlttm2entw-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\0kq9oas5vl-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\hwu5xy3ve2-{0}-xzw0cte36n-xzw0cte36n.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\epomwpe41y-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\x63q3w1r3b-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\7joz05ljeh-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\575y2rx0gl-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\d76wr0q5ly-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\j34gzootoq-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\hgqbw7hvqp-{0}-jfsiqqwiad-jfsiqqwiad.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\g5xnqk8ep6-{0}-lo0g1i6dk3-lo0g1i6dk3.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\compressed\r3rti4vi3l-{0}-lo0g1i6dk3-lo0g1i6dk3.gz
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\BloodBan.536726F3.Up2Date
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\BloodBankDB.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\refint\BloodBankDB.dll
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\BloodBankDB.pdb
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\BloodBankDB.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Blood_Bank_DB_Code_Dotnet-main\BloodBankDB\obj\Debug\net10.0\ref\BloodBankDB.dll

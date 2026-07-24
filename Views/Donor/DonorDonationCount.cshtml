@@ -1,0 +1,33 @@
+﻿@model IEnumerable<BloodBankDB.Models.DonorDonationCountVM>
+
+<h2>Donor Donation Count</h2>
+
+<p>
+    <a href="/Donor/Index" class="btn btn-secondary btn-sm">Back to Donor List</a>
+</p>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Donor ID</th>
+            <th>Full Name</th>
+            <th>Blood Group</th>
+            <th>Total Donations</th>
+        </tr>
+    </thead>
+
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.DonorId</td>
+                <td>@item.FullName</td>
+                <td>@item.BloodGroup</td>
+                <td>@item.TotalDonations</td>
+            </tr>
+        }
+
+    </tbody>
+
+</table>
