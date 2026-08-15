@@ -81,22 +81,4 @@ dotnet ef database update
 
 ```bash
 dotnet run
-```
-
-Or open the project in Visual Studio and press **F5**.
-
-## 🎥 Demo
-
-Add your project demo video here:
-
-```markdown
-[![BloodBankDB Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-```
-
-## 📸 Screenshots
-
-Add screenshots of the main application screens here.
-
-## 📄 License
-
-This project is developed for educational and portfolio purposes.
+``` 
